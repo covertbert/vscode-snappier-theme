@@ -8,7 +8,7 @@ A theme based loosely on Rainglow's Snappy theme but incorporating a wider range
 
 ## Installing
 
-This extension is available for free in the [Visual Studio Code Marketplace]()
+This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=bertieblackman.snappier)
 
 ## What's new?
 
@@ -33,6 +33,7 @@ If you download and install a font in your system, you can add this option to ha
 [Rainglow](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow)
 
 ## Support on Beerpay
+
 Hey dude! Help me out for a couple of :beers:!
 
-[![Beerpay](https://beerpay.io/covertbert/vscode-snappier-theme/badge.svg?style=beer-square)](https://beerpay.io/covertbert/vscode-snappier-theme)  [![Beerpay](https://beerpay.io/covertbert/vscode-snappier-theme/make-wish.svg?style=flat-square)](https://beerpay.io/covertbert/vscode-snappier-theme?focus=wish)
+[![Beerpay](https://beerpay.io/covertbert/vscode-snappier-theme/badge.svg?style=beer-square)](https://beerpay.io/covertbert/vscode-snappier-theme) [![Beerpay](https://beerpay.io/covertbert/vscode-snappier-theme/make-wish.svg?style=flat-square)](https://beerpay.io/covertbert/vscode-snappier-theme?focus=wish)
