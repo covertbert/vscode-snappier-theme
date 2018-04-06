@@ -1,13 +1,33 @@
-# README
-## This is the README for your extension "snappier"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Snappier Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+[![Marketplace](https://vsmarketplacebadge.apphb.com/version/akamud.vscode-theme-onedark.svg)](https://marketplace.visualstudio.com/items/akamud.vscode-theme-onedark) [![Installs](https://vsmarketplacebadge.apphb.com/installs/akamud.vscode-theme-onedark.svg)](https://marketplace.visualstudio.com/items/akamud.vscode-theme-onedark) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/akamud.vscode-theme-onedark.svg)](https://marketplace.visualstudio.com/items/akamud.vscode-theme-onedark)
+[![Beerpay](https://img.shields.io/beerpay/akamud/vscode-theme-onedark.svg)](https://beerpay.io/akamud/vscode-theme-onedark)  
+A theme based loosely on Rainglow's Snappy theme but incorporating a wider range of colours, **features full Workbench theming**.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![](https://raw.githubusercontent.com/covertbert/vscode-snappier-theme/master/screenshots/preview.png)
 
-**Enjoy!**
+## Installing
+
+This extension is available for free in the [Visual Studio Code Marketplace]()  
+
+## What's new?
+
+Click here to go to the [Changelog](https://github.com/covertbert/vscode-snappier-theme/blob/master/CHANGELOG.md)
+
+## Inconsistencies?
+
+If you find any inconsistency in any language, raise an Issue and I'll fix it, please provide a sample for the language so I can compare. 
+
+### Custom Font
+
+If you download and install a font in your system, you can add this option to have a custom font:
+
+```json
+{
+    "editor.fontFamily": "YOUR FONT, Menlo, Monaco, 'Courier New', monospace"
+}
+```
+
+## Credits
+
+[Rainglow](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow)
