@@ -1,0 +1,22 @@
+{
+    "name": "snappier",
+    "displayName": "Snappier",
+    "description": "A theme based on Rainglow's Snappy theme",
+    "version": "0.0.1",
+    "publisher": "bertieblackman",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Snappier",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Snappier-color-theme.json"
+            }
+        ]
+    }
+}
