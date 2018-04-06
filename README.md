@@ -1,7 +1,6 @@
 # Snappier Theme
 
 [![Marketplace](https://vsmarketplacebadge.apphb.com/version/bertieblackman.snappier.svg)](https://marketplace.visualstudio.com/items/bertieblackman.snappier) [![Installs](https://vsmarketplacebadge.apphb.com/installs/bertieblackman.snappier.svg)](https://marketplace.visualstudio.com/items/bertieblackman.snappier) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/bertieblackman.snappier.svg)](https://marketplace.visualstudio.com/items/bertieblackman.snappier)
-[![Beerpay](https://beerpay.io/covertbert/vscode-snappier-theme/badge.svg?style=beer)](https://beerpay.io/covertbert/vscode-snappier-theme)
 A theme based loosely on Rainglow's Snappy theme but incorporating a wider range of colours, **features full Workbench theming**.
 
 ![](https://raw.githubusercontent.com/covertbert/vscode-snappier-theme/master/screenshots/preview.png)
