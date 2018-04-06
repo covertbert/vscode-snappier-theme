@@ -2,7 +2,7 @@
     "name": "snappier",
     "displayName": "Snappier",
     "description": "A theme based loosely on Rainglow's Snappy theme but incorporating a wider range of colours",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "bertieblackman",
     "engines": {
         "vscode": "^1.22.0"
@@ -19,6 +19,7 @@
             }
         ]
     },
+    "icon": "icon.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/covertbert/vscode-snappier-theme.git"
