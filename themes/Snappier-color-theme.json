@@ -587,6 +587,12 @@
 			}
 		},
 		{
+			"scope": "entity.name.tag",
+			"settings": {
+				"foreground": "#ffd34e"
+			}
+		},
+		{
 			"scope": "meta.property-name support.type.property-name",
 			"settings": {
 				"foreground": "#ffd34e"
