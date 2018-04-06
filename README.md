@@ -1,6 +1,7 @@
 # Snappier Theme
 
 [![Marketplace](https://vsmarketplacebadge.apphb.com/version/bertieblackman.snappier.svg)](https://marketplace.visualstudio.com/items/bertieblackman.snappier) [![Installs](https://vsmarketplacebadge.apphb.com/installs/bertieblackman.snappier.svg)](https://marketplace.visualstudio.com/items/bertieblackman.snappier) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/bertieblackman.snappier.svg)](https://marketplace.visualstudio.com/items/bertieblackman.snappier)
+
 A theme based loosely on Rainglow's Snappy theme but incorporating a wider range of colours, **features full Workbench theming**.
 
 ![](https://raw.githubusercontent.com/covertbert/vscode-snappier-theme/master/screenshots/preview.png)
@@ -30,9 +31,3 @@ If you download and install a font in your system, you can add this option to ha
 ## Credits
 
 [Rainglow](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow)
-
-## Support on Beerpay
-
-Hey dude! Help me out for a couple of :beers:!
-
-[![Beerpay](https://beerpay.io/covertbert/vscode-snappier-theme/badge.svg?style=beer-square)](https://beerpay.io/covertbert/vscode-snappier-theme) [![Beerpay](https://beerpay.io/covertbert/vscode-snappier-theme/make-wish.svg?style=flat-square)](https://beerpay.io/covertbert/vscode-snappier-theme?focus=wish)

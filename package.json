@@ -2,7 +2,7 @@
     "name": "snappier",
     "displayName": "Snappier",
     "description": "A theme based loosely on Rainglow's Snappy theme but incorporating a wider range of colours",
-    "version": "3.0.0",
+    "version": "6.1.0",
     "publisher": "bertieblackman",
     "engines": {
         "vscode": "^1.22.0"
