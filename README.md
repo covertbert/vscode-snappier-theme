@@ -31,3 +31,8 @@ If you download and install a font in your system, you can add this option to ha
 ## Credits
 
 [Rainglow](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow)
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/covertbert/vscode-snappier-theme/badge.svg?style=beer-square)](https://beerpay.io/covertbert/vscode-snappier-theme)  [![Beerpay](https://beerpay.io/covertbert/vscode-snappier-theme/make-wish.svg?style=flat-square)](https://beerpay.io/covertbert/vscode-snappier-theme?focus=wish)
